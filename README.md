@@ -3,6 +3,7 @@
 ## Possible datasets
 
 - [DeepGlobe Land Cover Classification Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
+- [A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation](https://github.com/Linwei-Chen/CASID)
 - [Forest Aerial Images for Segmentation](https://www.kaggle.com/datasets/quadeer15sh/augmented-forest-segmentation/data)
 - [Semantic segmentation of aerial imagery](https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery/data)
 - [GeoNRW](https://www.kaggle.com/datasets/javidtheimmortal/geonrw)
