@@ -1,7 +1,16 @@
 # Field Segmentation
 
-- Real time? We will need to categorize on real data from sentinel hub.
+## Goals
+
+- Design a tool for land and crop classification
 - Terrain type detection
+- Compare different segmentation pipelines
+- Test the model on satellite resolution images
+- Train on a provided dataset
+- Develop a tool for sentinel data analysis
+- Do single image classification
+- Do temporal classification
+- Real time? We will need to categorize on real data from sentinel hub.
 - Crop coverage and detection
 - Pytorch (with or without Keras)
 - Use Openmmlab segmentation
