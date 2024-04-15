@@ -1,6 +1,6 @@
 # Field Segmentation
 
-- Real time?
+- Real time? We will need to categorize on real data.
 - Terrain type detection
 - Crop coverage and detection
 - Pytorch (with or without Keras)
