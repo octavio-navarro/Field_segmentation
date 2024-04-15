@@ -1,6 +1,6 @@
 # Field Segmentation
 
-- Real time? We will need to categorize on real data.
+- Real time? We will need to categorize on real data from sentinel hub.
 - Terrain type detection
 - Crop coverage and detection
 - Pytorch (with or without Keras)
@@ -24,10 +24,12 @@
 - [Forest Aerial Images for Segmentation](https://www.kaggle.com/datasets/quadeer15sh/augmented-forest-segmentation/data)
 - [Semantic segmentation of aerial imagery](https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery/data)
 - [GeoNRW](https://www.kaggle.com/datasets/javidtheimmortal/geonrw)
+- [Plant disease dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+
+### Real time data
 - [Dataspace Copernicus](https://dataspace.copernicus.eu/explore-data)
 	- [Sentinel hub - Processing API](https://dataspace.copernicus.eu/analyse/apis/sentinel-hub) - Apparently the api to get images. Needs an access token. 
 	- [Copernicus - Documentation](https://documentation.dataspace.copernicus.eu/Home.html)
-- [Plant disease dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 ## References
 
